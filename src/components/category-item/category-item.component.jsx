@@ -1,3 +1,4 @@
+import React from 'react';
 import './category-item.component.styles.scss';
 
 const categoryItem = ({ category }) => {
