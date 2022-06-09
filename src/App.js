@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Navigation from './components/routes/navigation/navigation.component';
-import Home from './components/routes/home/home.component';
+import Navigation from './routes/navigation/navigation.component';
+import Home from './routes/home/home.component';
 
 const Shop = () => {
   return <h1>I am the shop page</h1>;
