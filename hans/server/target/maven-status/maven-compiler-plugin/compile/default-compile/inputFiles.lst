@@ -1,0 +1,17 @@
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\enums\StatusCode.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\service\user\UserService.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\support\Paging.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\UserController.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\config\Oauth2ServerConfig.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\service\bean\ValidateResult.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\bean\UserInfoVo.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\service\user\impl\UserServiceImpl.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\support\UserContext.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\config\SwaggerConfig.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\Application.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\config\JpaAuditConfig.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\support\ServiceRequest.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\support\RequestHeader.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\support\ServiceResponse.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\controller\support\ServiceResponseBuilder.java
+C:\Users\hans.tsai\Desktop\Tutorial\hans\server\src\main\java\com\ecommerce\hans\core\api\config\WebSecurityConfig.java
