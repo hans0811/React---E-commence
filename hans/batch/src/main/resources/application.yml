@@ -2,9 +2,9 @@
 spring:
   datasource:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
-    url: jdbc:sqlserver://10.139.117.24:1433;databaseName=ELNDB_DEV
-    username: elnap_user
-    password: Newuser1Newuser
+    url: 
+    username:
+    password:
     hikari:
       maximum-pool-size: 20
       connection-timeout: 60000
